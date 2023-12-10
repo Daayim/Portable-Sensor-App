@@ -1,0 +1,6 @@
+*~
+*.xml
+.vs/
+Debug/
+Release/
+
