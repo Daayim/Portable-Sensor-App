@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pm_gui.qss</file>
+        <file>sha1.txt</file>
+    </qresource>
+</RCC>
