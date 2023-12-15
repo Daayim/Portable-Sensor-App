@@ -1,5 +1,5 @@
 # Plant_Water_App
-Embedded Application for controlling plant watering using atsaml21j18b MCU dev board
+Embedded Application for providing wireless sensor data using atsaml21j18b MCU dev board
 
 - PM (Power Management Module)
 
