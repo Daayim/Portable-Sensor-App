@@ -1,4 +1,4 @@
-# Plant_Water_App
+# Portable-Sensor-App
 Embedded Application for providing wireless sensor data using atsaml21j18b MCU dev board
 
 - PM (Power Management Module)
